@@ -6,7 +6,8 @@
 
 <h2>📺 Certifications</h2>
 
-- [Google Analytics 4]()
+- [Google Analytics 4](https://github.com/MarkWu-UT/MarkWu-UT/blob/main/Certificate-GA4.pdf)
+- [Lean Six Sigma Green Belt](https://github.com/MarkWu-UT/MarkWu-UT/blob/main/Certificate-GA4.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
