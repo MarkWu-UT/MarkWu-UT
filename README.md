@@ -1,5 +1,11 @@
 <h1>Hi, I'm Mark! </h1>
 
+<h2>💬 About Me </h2>
+
+- Applied Business Analytics new master grad from Boston University
+- Data-oriented analyst that transforms raw data into reasonable/feasible output and suggestions
+- 
+
 <h2>👨‍💻 Business/Data Analytics Projects:</h2>
 
 - [Hackathon: Chicago Traffic Accident Analysis](https://github.com/MarkWu-UT/Hack_Chicago_Accidents_Analysis/blob/main/README.md)
