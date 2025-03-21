@@ -4,7 +4,6 @@
 
 - Applied Business Analytics new master grad from Boston University
 - Data-oriented analyst that transforms raw data into reasonable/feasible output and suggestions
-- 
 
 <h2>👨‍💻 Business/Data Analytics Projects:</h2>
 
