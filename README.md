@@ -8,6 +8,7 @@
 <h2>👨‍💻 Business/Data Analytics Projects:</h2>
 
 - [Hackathon: Chicago Traffic Accident Analysis](https://github.com/MarkWu-UT/Hack_Chicago_Accidents_Analysis/blob/main/README.md)
+- [Risk Modeling & Investment Decision Analysis](https://github.com/MarkWu-UT/Hack_Chicago_Accidents_Analysis/blob/main/README.md)
 
 <h2>📺 Certifications</h2>
 
